@@ -1,2 +1,1 @@
-"# Submission-2-Dicoding-BFAA" 
-"# Submition2" 
+Submission-2-Dicoding-BFAA
