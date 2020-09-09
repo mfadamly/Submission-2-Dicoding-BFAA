@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="fullName">Full Name</string>
+    <string name="username">Username</string>
+    <string name="repository">%s Repository</string>
+    <string name="follower"> %s Follower</string>
+    <string name="following">%s Following</string>
+    <string name="company">Company</string>
+    <string name="lacation">Location</string>
+    <string name="search_user">Search User</string>
+    <string name="followers">Follower</string>
+    <string name="followings">Following</string>
+    <string name="change_language_setting">Change Language Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

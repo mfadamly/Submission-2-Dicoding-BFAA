@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="fullName">Nama Lengkap</string>
+    <string name="username">Username</string>
+    <string name="repository">%s Repositori</string>
+    <string name="follower">%s Pengikut</string>
+    <string name="following">%s Mengikuti</string>
+    <string name="company">Perusahaan</string>
+    <string name="lacation">Alamat</string>
+    <string name="search_user">Cari User</string>
+    <string name="change_language_setting">Ubah Bahasa</string>
+    <string name="followers">Pengikut</string>
+    <string name="followings">Mengikuti</string>
+</resources>
